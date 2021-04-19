@@ -16,7 +16,6 @@ provider "azurerm" {
   features {}
 }
 
-
 variable "rgName" {}
 variable "region" {}
 
